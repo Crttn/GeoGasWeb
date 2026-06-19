@@ -1,0 +1,6 @@
+{
+  "name": "GeoGas",
+  "description": "An ultra-minimalist, high-utility fuel search and comparison platform with interactive dark-grid maps and live price tracking.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
