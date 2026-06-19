@@ -38,3 +38,5 @@ El proyecto sigue una estricta filosofía de diseño **minimalista y de alta gam
 <div align="center">
   <small>Desarrollado con precisión y enfoque en la experiencia de usuario.</small>
 </div>
+
+<img width="1891" height="947" alt="image" src="https://github.com/user-attachments/assets/69d10d37-1491-4215-9db7-6f697bcf3acd" />
